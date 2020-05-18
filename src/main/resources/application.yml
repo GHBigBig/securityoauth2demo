@@ -1,0 +1,10 @@
+security:
+  oauth2:
+    client:
+      client-id: test
+      client-secret: test1234
+      registered-redirect-uri: http://www.baidu.com
+
+spring:
+  redis:
+    host: 192.168.0.105
